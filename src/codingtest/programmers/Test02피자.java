@@ -1,6 +1,6 @@
 package codingtest.programmers;
 
-// 코테 입문) 피자 나눠먹기(3)
+// 피자 나눠먹기(3)
 public class Test02피자 {
 
 	public static void main(String[] args) {

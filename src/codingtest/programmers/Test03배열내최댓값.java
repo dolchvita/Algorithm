@@ -2,7 +2,7 @@ package codingtest.programmers;
 
 import java.util.Arrays;
 
-// 코테 입문) 최댓값 만들기(1)
+// 최댓값 만들기(1)
 public class Test03배열내최댓값 {
 	int max=0;
 	

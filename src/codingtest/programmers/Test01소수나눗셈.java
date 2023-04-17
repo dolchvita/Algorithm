@@ -1,6 +1,6 @@
 package codingtest.programmers;
 
-// 코테 입문) 두 수의 나눗셈 
+// 두 수의 나눗셈 
 public class Test01소수나눗셈 {
 
 	public static void main(String[] args) {
